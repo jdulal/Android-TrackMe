@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Track Me</string>
+    <string name="title_activity_show_map_position">Map</string>
+</resources>

@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "674753797669",
+    "firebase_url": "https://it-chat-app.firebaseio.com",
+    "project_id": "it-chat-app",
+    "storage_bucket": "it-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674753797669:android:268c6e3eaf3b2383",
+        "android_client_info": {
+          "package_name": "com.jdulal.itchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674753797669-e2cb6pb8k9tqjujqsmn9e0vgimv55r59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukZ0oY5Ml4tmntKrmIDCqO6nJZlemlKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674753797669:android:6fd8af549653a59a",
+        "android_client_info": {
+          "package_name": "com.bracesmedia.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674753797669-o6pot2aobd5koin29bl0qb7ar2a6fhr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bracesmedia.trackme",
+            "certificate_hash": "a92ce7a35c95671c74c490218a9cd7f792fcece0"
+          }
+        },
+        {
+          "client_id": "674753797669-e2cb6pb8k9tqjujqsmn9e0vgimv55r59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukZ0oY5Ml4tmntKrmIDCqO6nJZlemlKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674753797669-e2cb6pb8k9tqjujqsmn9e0vgimv55r59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
